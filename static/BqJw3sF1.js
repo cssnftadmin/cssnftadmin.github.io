@@ -1,1 +1,0 @@
-import{cq as a,Q as s,K as r}from"./BcEPjS9l.js";const d=a((e,n)=>{const t=s(),o=document.querySelector(".body-container");if(o&&o.scrollTo({top:0}),e.path==="/dashboard"||e.path==="/dashboard/")return r("/");if(!t.getCssNftToken)return r("/login")});export{d as default};

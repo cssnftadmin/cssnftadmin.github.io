@@ -1,0 +1,1 @@
+import{cq as r,Q as a,K as t}from"./C7wrhjpR.js";const s=r((o,d)=>{a();const e=document.querySelector(".body-container");if(e&&e.scrollTo({top:0}),o.path==="/dashboard"||o.path==="/dashboard/")return t("/")});export{s as default};

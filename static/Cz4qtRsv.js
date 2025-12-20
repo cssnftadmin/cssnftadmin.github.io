@@ -1,1 +1,0 @@
-import{c0 as r,aV as a,K as t}from"./BJMT3CHa.js";const s=r((o,d)=>{a();const e=document.querySelector(".body-container");if(e&&e.scrollTo({top:0}),o.path==="/dashboard"||o.path==="/dashboard/")return t("/")});export{s as default};

@@ -1,1 +1,0 @@
-import{bQ as a,u as n,n as r}from"./entry.da3d60f1.js";const u=a((e,s)=>{const t=n(),o=document.querySelector(".body-container");if(o&&o.scrollTo({top:0}),e.path==="/dashboard"||e.path==="/dashboard/")return r("/");if(!t.getCssNftToken)return r("/login")});export{u as default};
